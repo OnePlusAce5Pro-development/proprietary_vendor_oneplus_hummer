@@ -912,6 +912,7 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/hummer/proprietary/odm/lib64/camera/libafCustomParam_Cam3.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/libafCustomParam_Cam3.bin \
     vendor/oneplus/hummer/proprietary/odm/lib64/camera/libpdCustomParam_Cam0.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/libpdCustomParam_Cam0.bin \
     vendor/oneplus/hummer/proprietary/odm/lib64/camera/revision.txt:$(TARGET_COPY_OUT_ODM)/lib64/camera/revision.txt \
+    vendor/oneplus/hummer/proprietary/odm/vendor/etc/wifi/WCNSS_qcom_cfg.ini:$(TARGET_COPY_OUT_ODM)/vendor/etc/wifi/WCNSS_qcom_cfg.ini \
     vendor/oneplus/hummer/proprietary/vendor/etc/acdbdata/sun_mtp/acdb_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/sun_mtp/acdb_cal.acdb \
     vendor/oneplus/hummer/proprietary/vendor/etc/display_apollo_list_AA590_P_3_A0020_dsc_cmd_mode_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/display_apollo_list_AA590_P_3_A0020_dsc_cmd_mode_panel.xml \
     vendor/oneplus/hummer/proprietary/vendor/etc/init/vendor.qti.camera.provider-service_64.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/vendor.qti.camera.provider-service_64.rc \
